@@ -1,0 +1,5 @@
+# If you would like to help us by reporting a security issue please use:
+#
+Contact: network@cbcf.info
+Preferred-Languages: en
+Canonical: https://mta-sts.cbcf.info/.well-known/security.txt
